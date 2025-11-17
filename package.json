@@ -1,5 +1,5 @@
 {
-  "name": "chatify-app",
+  "name": "code-together-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,5 +13,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ge-arty/code-together-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ge-arty/code-together-app/issues"
+  },
+  "homepage": "https://github.com/ge-arty/code-together-app#readme"
 }
